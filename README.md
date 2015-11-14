@@ -1,25 +1,34 @@
 # careers
-My thesis code, make sure to update maven dependencies after import
+<b>My thesis code, make sure to update maven dependencies after import</b><br>
 
-I just fork this on my original repo so I cant really migrate this to ralen
+</b>I just fork this on my original repo so I cant really migrate this to ralen</b>
 https://github.com/ralenmandao
 
-Web Enterprise Sample Project
+<b>Web Enterprise Sample Project</b>
 
-Technologies Used :
-Spring Boot
-Spring Security
-Spring Data
-Spring MVC
-JSP
-Groovy for Entity, DAO and Services
-Hibernate for some Entities
-MySQL for Development , H2 Embedded Database for Development, PostgreSQL for production
+<b>Technologies Used :</b>
+Spring Boot<br>
+Spring Security<br>
+Spring Data<br>
+Spring MVC<br>
+
+<b>Presentation Layer</b><br>
+JSP<br>
+Angular
+
+<b>Persistence Layer</b><br>
+Hibernate for some Entities<br>
+MySQL for Development<br>
+H2 Embedded Database for Development<br>
+PostgreSQL for production<br>
+
+<b>Groovy Codes</b>
+Groovy for Entity, DAO and Services<br>
 
 <b>SQL Groovy codes @ this packages</b>
 com.careers.data.repository.imp
 
 <b> Some Groovy codes @</b>
-com.careers.data.jdbc
-com.careers.data.service.imp
-com.careers.data.entity
+com.careers.data.jdbc<br>
+com.careers.data.service.imp<br>
+com.careers.data.entity<br>
