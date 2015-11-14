@@ -1,4 +1,6 @@
 # careers
+<b>NOTE : Wala pa palang SQL groovy codes di ako nakapag push sa Workspace ko nung friday CHEERS!</b><br>
+
 <b>My thesis code, make sure to update maven dependencies after import</b><br>
 
 </b>I just fork this on my original repo so I cant really migrate this to ralen</b>
