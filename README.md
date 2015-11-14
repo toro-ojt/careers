@@ -6,7 +6,7 @@ https://github.com/ralenmandao
 
 <b>Web Enterprise Sample Project</b>
 
-<b>Technologies Used :</b>
+<b>Technologies Used :</b><br>
 Spring Boot<br>
 Spring Security<br>
 Spring Data<br>
@@ -22,13 +22,13 @@ MySQL for Development<br>
 H2 Embedded Database for Development<br>
 PostgreSQL for production<br>
 
-<b>Groovy Codes</b>
+<b>Groovy Codes</b><br>
 Groovy for Entity, DAO and Services<br>
 
-<b>SQL Groovy codes @ this packages</b>
+<b>SQL Groovy codes @ this packages</b><br>
 com.careers.data.repository.imp
 
-<b> Some Groovy codes @</b>
+<b> Some Groovy codes @</b><br>
 com.careers.data.jdbc<br>
 com.careers.data.service.imp<br>
 com.careers.data.entity<br>
